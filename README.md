@@ -1,1 +1,1 @@
-# wp-code-lab
+# WP Code Lab
